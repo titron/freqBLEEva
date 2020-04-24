@@ -1,0 +1,9 @@
+【1】最新 SDK
+https://gitee.com/freqchip/FR801xH-SDK
+
+旧SDK
+https://github.com/qdfreqchip/FR801xH-SDK
+
+【2】开发板 手册
+https://pan.baidu.com/s/191JY-x2G7rWIVebdVoafww
+提取码：zdov
